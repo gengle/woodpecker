@@ -29,7 +29,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/melbahja/goph v1.3.1
-	github.com/moby/moby v23.0.6+incompatible
+	github.com/moby/moby v24.0.9+incompatible
 	github.com/moby/term v0.5.0
 	github.com/mrjones/oauth v0.0.0-20190623134757-126b35219450
 	github.com/oklog/ulid/v2 v2.1.0
