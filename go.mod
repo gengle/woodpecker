@@ -89,7 +89,7 @@ require (
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/hashicorp/go-version v1.5.0 // indirect
 	github.com/imdario/mergo v0.3.6 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
@@ -99,8 +99,8 @@ require (
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
-	github.com/mattn/go-isatty v0.0.17 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mholt/acmez v1.0.4 // indirect
 	github.com/miekg/dns v1.1.50 // indirect
@@ -131,7 +131,7 @@ require (
 	go.uber.org/zap v1.23.0 // indirect
 	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
 	golang.org/x/mod v0.9.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
 	golang.org/x/term v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
